@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 Sobre Mim
-Estudante de **Sistemas de Informação** apaixonado por transformar lógica em soluções reais. Atualmente, foco meus estudos em Desenvolvimento Web e Engenharia de Software.
+Estudante de **Sistemas de Informação** apaixonado por transformar lógica em soluções reais. Atualmente, foco meus estudos em desenvolvimento Web e Engenharia de Software.
 
 - 🎓 **Monitoria:** Atuei como Monitor de **Programação Web**, auxiliando alunos no desenvolvimento de aplicações modernas e boas práticas de código.
 - ♟️ **Hobbies:** Nas horas vagas, me desafio em partidas de Xadrez e acompanho o mercado financeiro.
@@ -46,10 +46,8 @@ Estudante de **Sistemas de Informação** apaixonado por transformar lógica em 
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/LuizAntonioSantos">
-    ![LuizAntonio's GitHub stats]<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizAntonioSantos&layout=compact&langs_count=7&theme=tokyonight&title_color=E22227&text_color=55666E&bg_color=222B31" />
-    ![LuizAntonio's GitHub stats]<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizAntonioSantos&show_icons=true&theme=tokyonight&title_color=E22227&text_color=55666E&bg_color=222B31&include_all_commits=true&count_private=true" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizAntonioSantos&layout=compact&langs_count=7&theme=github_dark&title_color=E22227&text_color=55666E&bg_color=222B31" border="0" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizAntonioSantos&show_icons=true&theme=github_dark&title_color=E22227&text_color=55666E&bg_color=222B31&include_all_commits=true&count_private=true" border="0" />
 </div>
 
 ---
