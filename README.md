@@ -47,8 +47,8 @@ Estudante de **Sistemas de Informação** apaixonado por transformar lógica em 
 
 <div align="center">
   <a href="https://github.com/LuizAntonioSantos">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizAntonioSantos&layout=compact&langs_count=7&theme=tokyonight&title_color=E22227&text_color=55666E&bg_color=222B31" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizAntonioSantos&show_icons=true&theme=tokyonight&title_color=E22227&text_color=55666E&bg_color=222B31&include_all_commits=true&count_private=true" />
+    ![LuizAntonio's GitHub stats]<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizAntonioSantos&layout=compact&langs_count=7&theme=tokyonight&title_color=E22227&text_color=55666E&bg_color=222B31" />
+    ![LuizAntonio's GitHub stats]<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizAntonioSantos&show_icons=true&theme=tokyonight&title_color=E22227&text_color=55666E&bg_color=222B31&include_all_commits=true&count_private=true" />
   </a>
 </div>
 
